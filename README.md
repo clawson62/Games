@@ -8,3 +8,6 @@
 
 ## Quiz Up
 ### This trivia app has hundreds of catagories in every nook and cranny of societal knowledge.
+
+## Oregon Trail
+### If you don't know what this is...
